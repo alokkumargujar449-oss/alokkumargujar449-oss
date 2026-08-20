@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Gujar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumargujar449-oss&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumargujar449-oss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumargujar449-oss&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkumargujar449-oss" alt="alokkumargujar449-oss" /></a> </p>
 
