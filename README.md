@@ -19,8 +19,19 @@ Experienced in building and evaluating predictive models, performing exploratory
 <p align="left"> <a href="https://www.github.com/https://github.com/alokkumargujar449-oss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
 
+1.)MOST USED LANGUAGES
+
 <b>My GitHub Stats</b>
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=alokkumargujar449-oss&theme=dark)
+
+
+2.)OVERALL STATS
+
+![alokkumargujar449-oss's GitHub Stats](https://readme-stats-github.pages.dev/api?username=alokkumargujar449-oss&theme=dark)
+
+3.) README STATS
+
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=alokkumargujar449-oss&repo=readme-stats-github&theme=dark)
 
 
 
