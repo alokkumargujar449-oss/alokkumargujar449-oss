@@ -20,11 +20,8 @@ Experienced in building and evaluating predictive models, performing exploratory
 ### Badges
 
 <b>My GitHub Stats</b>
-[![GitHub Streak](https://streak-stats.demolab.com/alokkumargujar449-oss
-=DenverCoder1)](https://git.io/streak-stats)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=alokkumargujar449-oss&theme=dark)
 
-<a href="http://www.github.com/https://github.com/alokkumargujar449-oss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/alokkumargujar449-oss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
