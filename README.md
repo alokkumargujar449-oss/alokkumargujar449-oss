@@ -21,7 +21,7 @@ Experienced in building and evaluating predictive models, performing exploratory
 
 1.)MOST USED LANGUAGES
 
-<b>My GitHub Stats</b>
+
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=alokkumargujar449-oss&theme=dark)
 
 
@@ -29,9 +29,7 @@ Experienced in building and evaluating predictive models, performing exploratory
 
 ![alokkumargujar449-oss's GitHub Stats](https://readme-stats-github.pages.dev/api?username=alokkumargujar449-oss&theme=dark)
 
-3.) README STATS
 
-![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=alokkumargujar449-oss&repo=readme-stats-github&theme=dark)
 
 
 
